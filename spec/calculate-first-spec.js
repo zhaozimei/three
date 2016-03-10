@@ -1,3 +1,5 @@
+var single_element = require('../src/calculate-first.js');
+
 describe('single_element_spec', function() {
 
   var collection_a = [1, 2, 3, 2, 5, 6, 21, 43, 12, 5];
