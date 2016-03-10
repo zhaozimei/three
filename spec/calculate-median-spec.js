@@ -1,4 +1,4 @@
-var calculate_median = require('../src/calculate-second.js');
+var calculate_median = require('../src/calculate-median.js');
 
 describe('calculate_median_spec', function() {
   var collection_a = [1, 2, 3, 4, 5, 6];
