@@ -18,5 +18,5 @@ function calculate_median(arr) {
 		 num = brr[a]
 	}
 	return num;
-
+}
 module.exports = calculate_median;
